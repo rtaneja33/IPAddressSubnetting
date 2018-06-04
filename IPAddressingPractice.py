@@ -74,20 +74,3 @@ print("Subnet Mask:", subnetmask)
 print("Network Address:",formattednetworkaddress)
 print("Broadcast Address:",formattedbroadcastaddress)
 print("Host Address Range: ",rangemin,'-', rangemax)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
